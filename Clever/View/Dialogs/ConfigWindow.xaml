@@ -98,7 +98,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="1"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <TextBlock Grid.Row="0"
@@ -106,7 +106,7 @@
                            VerticalAlignment="Center"
                            HorizontalAlignment="Left"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="' this is comment"
                            FontStyle="Italic"
                            Foreground="{Binding Path=Comment_Brush}"/>
@@ -120,7 +120,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="2"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <Border Grid.Row="1"
@@ -135,7 +135,7 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="folder"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -143,14 +143,14 @@
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="&quot;sd&quot;"
                                Foreground="{Binding Path=String_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="&quot;MyProject&quot;"
                                Foreground="{Binding Path=String_Brush}"/>
                 </StackPanel>
@@ -166,7 +166,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="3"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="2"
@@ -175,7 +175,7 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="import"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -183,7 +183,7 @@
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="&quot;MyModule&quot;"
                                Foreground="{Binding Path=String_Brush}"/>
                 </StackPanel>
@@ -199,7 +199,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="4"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
 
@@ -213,7 +213,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="5"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <Border Grid.Row="4"
@@ -231,13 +231,13 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="#region"
                                Foreground="{Binding Path=Region_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Margin="10,0,0,0"
                                Text="TEST"
                                Foreground="{Binding Path=Region_Brush}"/>
@@ -277,7 +277,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="6"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
 
@@ -291,7 +291,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="7"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="6"
@@ -300,7 +300,7 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="Function"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -308,7 +308,7 @@
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="Test"
                                Foreground="{Binding Path=Sub_Brush}"/>
@@ -316,14 +316,14 @@
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="("
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="out"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -332,21 +332,21 @@
                                Margin="10,0,0,0"
                                FontSize="16"
                                FontWeight="DemiBold"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="number"
                                Foreground="{Binding Path=Keywords2_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="param"
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text=")"
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                 </StackPanel>
@@ -385,7 +385,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="8"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="7"
@@ -395,7 +395,7 @@
                                HorizontalAlignment="Left"
                                Margin="30,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="goto"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -403,7 +403,7 @@
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="myLabel"
                                Foreground="{Binding Path=Label_Brush}"/>
@@ -419,7 +419,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="9"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="8"
@@ -429,35 +429,35 @@
                                HorizontalAlignment="Left"
                                Margin="30,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="param"
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="="
                                Foreground="{Binding Path=Operator_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="100.00"
                                Foreground="{Binding Path=Number_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="+"
                                Foreground="{Binding Path=Operator_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="10,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="45"
                                Foreground="{Binding Path=Number_Brush}"/>
                 </StackPanel>
@@ -472,7 +472,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="10"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="9"
@@ -482,7 +482,7 @@
                                HorizontalAlignment="Left"
                                Margin="30,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="MotorBC"
                                Foreground="{Binding Path=Object_Brush}"/>
@@ -490,7 +490,7 @@
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="."
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
@@ -498,14 +498,14 @@
                                Margin="0,0,0,0"
                                FontSize="16"
                                FontWeight="DemiBold"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="ResetCount"
                                Foreground="{Binding Path=Method_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="()"
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                 </StackPanel>
@@ -520,7 +520,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="11"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="10"
@@ -530,7 +530,7 @@
                                HorizontalAlignment="Left"
                                Margin="30,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="MyModule"
                                Foreground="{Binding Path=Module_Brush}"/>
@@ -538,7 +538,7 @@
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="."
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
@@ -546,14 +546,14 @@
                                Margin="0,0,0,0"
                                FontSize="16"
                                FontWeight="DemiBold"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="TestMethod"
                                Foreground="{Binding Path=Method_Brush}"/>
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                Margin="0,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="()"
                                Foreground="{Binding Path=EditorForeground_Brush}"/>
                 </StackPanel>
@@ -568,7 +568,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="12"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="11"
@@ -578,7 +578,7 @@
                                HorizontalAlignment="Left"
                                Margin="30,0,0,0"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="myLabel:"
                                Foreground="{Binding Path=Label_Brush}"/>
@@ -594,7 +594,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="13"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="12"
@@ -603,7 +603,7 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                FontWeight="DemiBold"
                                Text="EndFunction"
                                Foreground="{Binding Path=Keywords1_Brush}"/>
@@ -627,7 +627,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="14"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
 
@@ -641,7 +641,7 @@
                            HorizontalAlignment="Right"
                            Margin="0,0,4,0"
                            FontSize="16"
-                           FontFamily="Consolas"
+                           FontFamily="Jetbrains Mono"
                            Text="15"
                            Foreground="{Binding Path=MarginForeground_Brush}"/>
                 <StackPanel Grid.Row="14"
@@ -650,7 +650,7 @@
                     <TextBlock VerticalAlignment="Center"
                                HorizontalAlignment="Left"
                                FontSize="16"
-                               FontFamily="Consolas"
+                               FontFamily="Jetbrains Mono"
                                Text="#endregion"
                                Foreground="{Binding Path=Region_Brush}"/>
                 </StackPanel>
@@ -686,7 +686,7 @@
                                    VerticalAlignment="Center"
                                    HorizontalAlignment="Center"
                                    FontSize="14"
-                                   FontFamily="Consolas"
+                                   FontFamily="Jetbrains Mono"
                                    Text="This is CallTip"
                                    Foreground="{Binding Path=CalltipForeground_Brush}"/>
                     </Grid>
@@ -733,7 +733,7 @@
                                        VerticalAlignment="Center"
                                        HorizontalAlignment="Left"
                                        FontSize="16"
-                                       FontFamily="Consolas"/>
+                                       FontFamily="Jetbrains Mono"/>
                             <Border Grid.Row="0"
                                     Grid.Column="10"
                                     Height="20"
@@ -748,7 +748,7 @@
                                        VerticalAlignment="Center"
                                        HorizontalAlignment="Center"
                                        FontSize="14"
-                                       FontFamily="Consolas"
+                                       FontFamily="Jetbrains Mono"
                                        Height="20"
                                        Width="30"/>
                             <TextBlock Text="G"
@@ -757,7 +757,7 @@
                                        VerticalAlignment="Center"
                                        HorizontalAlignment="Center"
                                        FontSize="14"
-                                       FontFamily="Consolas"
+                                       FontFamily="Jetbrains Mono"
                                        Height="20"
                                        Width="30"/>
                             <TextBlock Text="B"
@@ -766,7 +766,7 @@
                                        VerticalAlignment="Center"
                                        HorizontalAlignment="Center"
                                        FontSize="14"
-                                       FontFamily="Consolas"
+                                       FontFamily="Jetbrains Mono"
                                        Height="20"
                                        Width="30"/>
 
@@ -789,7 +789,7 @@
                                      Text="{Binding ElementName=sliderR, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:F0}}"
                                      TextAlignment="Right"
                                      FontSize="14"
-                                     FontFamily="Consolas"
+                                     FontFamily="Jetbrains Mono"
                                      Background="#00000000"
                                      BorderThickness="1"
                                      BorderBrush="#000000"/>
@@ -813,7 +813,7 @@
                                      Text="{Binding ElementName=sliderG, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:F0}}"
                                      TextAlignment="Right"
                                      FontSize="14"
-                                     FontFamily="Consolas"
+                                     FontFamily="Jetbrains Mono"
                                      Background="#00000000"
                                      BorderThickness="1"
                                      BorderBrush="#000000"/>
@@ -836,7 +836,7 @@
                                      Text="{Binding ElementName=sliderB, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, StringFormat={}{0:F0}}"
                                      TextAlignment="Right"
                                      FontSize="14"
-                                     FontFamily="Consolas"
+                                     FontFamily="Jetbrains Mono"
                                      Background="#00000000"
                                      BorderThickness="1"
                                      BorderBrush="#000000"/>
