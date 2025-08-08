@@ -191,11 +191,11 @@ namespace Clever.Model.Bplus
 
             textArea.StyleResetDefault();
             
-            textArea.Styles[Style.Default].Font = "Consolas";
+            textArea.Styles[Style.Default].Font = "Jetbrains Mono";
             textArea.Styles[Style.Default].Size = 12;
             textArea.Styles[Style.Default].BackColor = backColor;
             textArea.Styles[Style.Default].ForeColor = foreColor;
-            textArea.Styles[Style.LineNumber].Font = "Consolas";
+            textArea.Styles[Style.LineNumber].Font = "Jetbrains Mono";
             textArea.Styles[Style.LineNumber].Bold = false;
             textArea.Styles[Style.LineNumber].Italic = false;
             textArea.Styles[Style.LineNumber].Size = 12;
